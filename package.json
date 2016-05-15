@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dkbo-css-frameowrk/npc.git"
+    "url": "git+https://github.com/dkbo/dkbo-css-frameowrk.git"
   },
   "author": "",
   "license": "ISC",
